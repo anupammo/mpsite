@@ -5,7 +5,7 @@ const About = () => {
     return (
         <div>
             <div id="hero-about" className="mb-5">
-                <img className="img-fluid" src="hero-top-bg.svg" />
+                <img className="img-fluid" src={process.env.PUBLIC_URL + "/hero-top-bg.svg"} />
                 <div className="container">
                     <div className="row">
                         <div className="col-md-6 col-12"></div>
@@ -34,7 +34,7 @@ const About = () => {
                         </div>
                     </div>
                 </div>
-                <img className="img-fluid" src="hero-bottom-bg.svg" />
+                <img className="img-fluid" src={process.env.PUBLIC_URL + "/hero-bottom-bg.svg"} />
             </div>
             <div className="container">
                 <div className="row">
