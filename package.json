@@ -1,7 +1,7 @@
 {
   "name": "mpsite",
   "version": "0.1.0",
-  "homepage": "https://anupammo.github.io/mp-site",
+  "homepage": "https://anupammo.github.io/mpsite",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
