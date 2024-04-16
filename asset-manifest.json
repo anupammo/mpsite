@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/mp-site/static/js/main.588ceea5.js",
-    "index.html": "/mp-site/index.html",
-    "main.588ceea5.js.map": "/mp-site/static/js/main.588ceea5.js.map"
+    "main.js": "/mpsite/static/js/main.588ceea5.js",
+    "index.html": "/mpsite/index.html",
+    "main.588ceea5.js.map": "/mpsite/static/js/main.588ceea5.js.map"
   },
   "entrypoints": [
     "static/js/main.588ceea5.js"
